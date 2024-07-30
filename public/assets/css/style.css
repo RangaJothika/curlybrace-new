@@ -823,7 +823,7 @@ select {
   text-align: center;
 }
 .hero-section .silde-item{
-  padding-top: 300px;
+  padding-top: 50px;
   padding-bottom: 130px;
   max-width: 1170px;
   margin-left: auto;
@@ -857,13 +857,13 @@ select {
 }
 .book-icon {
   position: absolute;
-  top: 28%;
+  top: 8%;
   left: 5%;
 }
 .idea-icon {
   position: absolute;
-  top: 31%;
-  left: 43%;
+  top: 10%;
+  left: 60%;
 }
 .global-icon {
   position: absolute;
