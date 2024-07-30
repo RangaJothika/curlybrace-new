@@ -120,7 +120,7 @@
     padding-bottom: 50px;
   }
   .hero-section .silde-item {
-    padding-top: 270px;
+    padding-top: 80px;
     padding-bottom: 30px;
   }
   .hero-section .content h1{
@@ -137,7 +137,7 @@
     display: none;
   }
   .book-icon {
-    top: 19%;
+    top: 4%;
     left: 0;
     animation: none;
     max-width: 30px;
